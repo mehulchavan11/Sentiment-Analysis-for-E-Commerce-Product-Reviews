@@ -1,0 +1,11 @@
+Flask
+pandas
+playwright
+vaderSentiment
+beautifulsoup4
+requests
+matplotlib
+wordcloud
+scikit-learn
+numpy
+openpyxl
