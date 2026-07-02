@@ -1,3 +1,7 @@
+# 🛍️ Sentiment Analysis for E-Commerce Product Reviews
+
+A Flask-based web application that analyzes Flipkart product reviews using VADER Sentiment Analysis and interactive visualizations.
+
 # 🛒 Sentiment Analysis for E-Commerce Product Reviews 
 A complete NLP-based system that scrapes Flipkart product reviews using Playwright and analyzes sentiment with VADER. Features star-rating prediction, interactive visualizations, and a Flask web interface. Helps customers make better decisions and enables businesses to understand sentiment trends.
 This project aims to analyze **customer sentiment** from Flipkart product reviews using **web scraping, NLP, and Flask-based deployment**. It predicts user satisfaction levels, visualizes sentiment trends, and helps both customers and businesses make informed decisions.
