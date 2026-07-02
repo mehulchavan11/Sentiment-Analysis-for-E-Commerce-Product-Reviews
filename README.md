@@ -112,6 +112,7 @@ Top 20 Keywords :
 
 👨‍💻 Team Members
 - Atharva Patil
-- Mehul Chavan
+- Ajinkya Bondge
 - Pratik Chinchawadkar
-- and myself : Ajinkya Bondge 
+- and myself : Mehul Chavan
+  
